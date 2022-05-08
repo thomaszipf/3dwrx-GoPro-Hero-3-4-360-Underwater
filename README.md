@@ -18,9 +18,15 @@ This is a Remix from http://www.thingiverse.com/thing:1304353 originally from ma
 Bill of material remains the same:
 
 Screws
+
 M5 x 20mm x 6 pcs.
+
 M5 Nut x 6 pcs.
+
 M3 x 60mm x 4 pcs.
+
 M3 Nut x 4 pcs.
+
 1/4" Nut for tripod screw
+
 AND 4 Wood screws like 2,5mm x 10mm
