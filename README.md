@@ -11,7 +11,7 @@ This is a Remix from http://www.thingiverse.com/thing:1304353 originally from ma
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-GoPro-Hero-3-4-360-Underwater/blob/main/Images/GoPro-Hero-360-Underwater.PNG"
+    src="https://github.com/thomaszipf/3dwrx-GoPro-Hero-3-4-360-Underwater/blob/main/Images/Gopro-Hero-360-Underwater.PNG"
   >
 </p>
 
